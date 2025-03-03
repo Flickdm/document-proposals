@@ -78,7 +78,7 @@ When the `Remediation Developer` is ready for a review, they will create a revie
 
 ![review](images\targetable_branch.jpg)
 
-The pipelines are not expected to work. To reduce the work that will need to take place in the public, the `Remediation Developer` should run as many pipelines locally as they can (formatting, etc).
+The pipelines are not expected to work. To reduce the work that will need to take place in the public, the `Remediation Developer` should run as many CI checks locally as they can (formatting, etc).
 
 (TODO: can we script this / formalize this?)
 
